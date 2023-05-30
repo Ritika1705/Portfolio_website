@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project is all about my personalised resume but in a more colorful form
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
