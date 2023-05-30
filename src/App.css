@@ -663,7 +663,7 @@ section{
   left: 60%;
   top: 0;
   height: 45px;
-  background: #e6e6e6b8;
+  background: rgb(204, 201, 201);
   transform: rotate(45deg);
 }
 .card_image:after{

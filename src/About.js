@@ -110,7 +110,7 @@ function About()
                                 <ul class="cards">
                                     <li class="cards_item">
                                     <div class="card">
-                                        <div class="card_image"><img src="https://assets.codepen.io/652/photo-1468777675496-5782faaea55b.jpeg" alt="mixed vegetable salad in a mason jar. "></img></div>
+                                        <div class="card_image"><img src="https://img.freepik.com/premium-vector/little-girl-wear-beautiful-ballerina-costume-dance_97632-3949.jpg?w=2000" alt="mixed vegetable salad in a mason jar. "></img></div>
                                         <div class="card_content">
                                         <h2 class="card_title">Dance is my oxygen</h2>
                                         <div class="card_text">
@@ -123,28 +123,26 @@ function About()
 
                                     <li class="cards_item">
                                     <div class="card">
-                                        <div class="card_image"><img src="https://assets.codepen.io/652/photo-1520174691701-bc555a3404ca.jpeg" alt="a Reuben sandwich on wax paper. "></img></div>
+                                        <div class="card_image"><img src="https://t4.ftcdn.net/jpg/01/64/89/31/360_F_164893115_DprLVWURglihDpzv4uC6ReaumLyqSH7W.jpg" alt="a Reuben sandwich on wax paper. "></img></div>
                                         <div class="card_content">
-                                        <h2 class="card_title">Ultimate Reuben &#x2022; $18</h2>
+                                        <h2 class="card_title">I love to eat</h2>
                                         <div class="card_text">
-                                            <p>All great meals take time, but this one takes it to the next level! More than 650 hours of fermenting, brining, aging, and curing goes into each and every one of our legendary Reuben sandwiches.
-                                            </p>
-                                            <p>Every element of this extraordinary sandwich is handcrafted in our kitchens, from the rye bread baked from our secret recipe to the cave-aged Swiss cheese, right down to the pickle. The only thing we didn't make on the premises is the toothpick ( but we're looking into how to do that). </p>
-                                            <p>This unforgettable sandwich has all of the classic Reuben elements: corned beef, rye bread, creamy Russian dressing, sauerkraut, plus a sweet gherkin pickle. No substitions please!</p>
-                                            <p>Add a side of french fries or sweet potato fries for $2 more, or our housemade pub chips for $1.</p>
+                                            <p> Well.. is eating a hobby?</p>
+                                            <p>Maybe not. But I would like to mention it in my profile as it is an "integral" part of my life. Duh..</p>
+                                            <p>Forever a foodie, day or night, summers or winters, one thing which keeps me happy is a good scrumptuous meal.</p>
                                         </div>
                                         </div>
                                     </div>
                                     </li>
                                     <li class="cards_item">
                                     <div class="card">
-                                        <div class="card_image"><img src="https://assets.codepen.io/652/photo-1544510808-91bcbee1df55.jpeg" alt="A side view of a plate of figs and berries. "></img></div>
+                                        <div class="card_image"><img src="https://media.istockphoto.com/id/823857448/vector/black-beautiful-girl-sitting-on-the-floor-and-reading-books-kid-enjoying-reading-colorful.jpg?s=612x612&w=0&k=20&c=CixlHzCANKig_Gzu_sj7txSAu3To9l5ou1s0OdaaKfA=" alt="A side view of a plate of figs and berries. "></img></div>
                                         <div class="card_content">
-                                        <h2 class="card_title">Fig &amp; Berry Plate &#x2022; $16</h2>
+                                        
+                                        <h2 class="card_title">Loves to read & write</h2>
                                         <div class="card_text">
-                                            <p><span class="note">Seasonal.</span></p>
-                                            <p>A succulent sextet of fresh figs join with a selection of bodacious seasonal berries in this refreshing, shareable dessert.</p>
-                                            <p>Choose your drizzle: cherry-balsamic vinegar, local honey, or housemade chocolate sauce. </p>
+                                            <p>Books have always been my best companions.</p>
+                                            <p>After a tough day at work, when nothing feels right, I sit down with my diary and pen down my thoughts which helps me calm down.</p>
                                         </div>
                                         </div>
                                     </div>
