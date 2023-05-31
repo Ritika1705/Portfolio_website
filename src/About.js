@@ -19,6 +19,42 @@ function About()
                 
             </head>
             <body id="bootstrap-overrides">
+            <section>
+                            <h1 class="animate-character">Projects</h1>
+                            <Accordion defaultActiveKey="">
+                            <Accordion.Item eventKey="0">
+                                <Accordion.Header><h4>Flask Weather App</h4></Accordion.Header>
+                                <Accordion.Body>
+                                <p>A weather app with built in login functionality to get the current weather conditions, daily weather forecast and some cool weather facts.</p>
+                                <p>Github link : <a href="https://github.com/Ritika1705/Flask-Weather-App">https://github.com/Ritika1705/Flask-Weather-App</a></p>
+                                </Accordion.Body>
+                            </Accordion.Item>
+                            <Accordion.Item eventKey="1">
+                                <div class="accordian-header">
+                                    <Accordion.Header><h4>Github API using React</h4></Accordion.Header>
+                                    </div>
+                                    <Accordion.Body>
+                                    <p>This project was bootstrapped with Create React App. A simple web app to fetch github user details as well as the repository details.</p>
+                                    <p>Github link : <a href="https://github.com/Ritika1705/github_api">https://github.com/Ritika1705/github_api</a></p>
+                                    </Accordion.Body>
+                                
+                            </Accordion.Item>
+                            <Accordion.Item eventKey="2">
+                                <div class="accordian-header">
+                                    <Accordion.Header><h4>Todo List app with RASA chatbot integration</h4></Accordion.Header>
+                                    </div>
+                                    <Accordion.Body>
+                                    <p>
+                                    RASA is an open-source chatbot framework based on machine learning. With the help of it, we can easily create highly accurate chatbots and can easily integrate these chatbots with our website, telegram, Facebook, Whatsapp, etc.
+                                    This is a simple REACT based todo list application with a RASA chatbot integration.
+                                    </p>
+                                    <p>Github link : <a href="https://github.com/Ritika1705/todo_list_with_chatbot_integration">https://github.com/Ritika1705/todo_list_with_chatbot_integration</a></p>
+                                    </Accordion.Body>
+                                
+                            </Accordion.Item>
+                            </Accordion>
+                            
+                        </section>
                         <h1 class="animate-character centrealign">Work Experiences</h1>
                         <section id="cd-timeline" class="cd-container">
                             <div class="cd-timeline-block">
@@ -68,47 +104,12 @@ function About()
                             </div> 
                             
                         </section> 
-                        <section>
-                            <h1 class="animate-character">Projects</h1>
-                            <Accordion defaultActiveKey="">
-                            <Accordion.Item eventKey="0">
-                                <Accordion.Header><h4>Flask Weather App</h4></Accordion.Header>
-                                <Accordion.Body>
-                                <p>A weather app with built in login functionality to get the current weather conditions, daily weather forecast and some cool weather facts.</p>
-                                <p>Github link : <a href="https://github.com/Ritika1705/Flask-Weather-App">https://github.com/Ritika1705/Flask-Weather-App</a></p>
-                                </Accordion.Body>
-                            </Accordion.Item>
-                            <Accordion.Item eventKey="1">
-                                <div class="accordian-header">
-                                    <Accordion.Header><h4>Github API using React</h4></Accordion.Header>
-                                    </div>
-                                    <Accordion.Body>
-                                    <p>This project was bootstrapped with Create React App. A simple web app to fetch github user details as well as the repository details.</p>
-                                    <p>Github link : <a href="https://github.com/Ritika1705/github_api">https://github.com/Ritika1705/github_api</a></p>
-                                    </Accordion.Body>
-                                
-                            </Accordion.Item>
-                            <Accordion.Item eventKey="2">
-                                <div class="accordian-header">
-                                    <Accordion.Header><h4>Todo List app with RASA chatbot integration</h4></Accordion.Header>
-                                    </div>
-                                    <Accordion.Body>
-                                    <p>
-                                    RASA is an open-source chatbot framework based on machine learning. With the help of it, we can easily create highly accurate chatbots and can easily integrate these chatbots with our website, telegram, Facebook, Whatsapp, etc.
-                                    This is a simple REACT based todo list application with a RASA chatbot integration.
-                                    </p>
-                                    <p>Github link : <a href="https://github.com/Ritika1705/todo_list_with_chatbot_integration">https://github.com/Ritika1705/todo_list_with_chatbot_integration</a></p>
-                                    </Accordion.Body>
-                                
-                            </Accordion.Item>
-                            </Accordion>
-                            
-                        </section>
+                        
                         <section>
                             <h1 class="animate-character">Welcome to the fun part of my life !!</h1>
                             <div class="main">
                                 <ul class="cards">
-                                    <li class="cards_item">
+                                    <li class="cards_item shake">
                                     <div class="card">
                                         <div class="card_image"><img src="https://img.freepik.com/premium-vector/little-girl-wear-beautiful-ballerina-costume-dance_97632-3949.jpg?w=2000" alt="mixed vegetable salad in a mason jar. "></img></div>
                                         <div class="card_content">
@@ -121,7 +122,7 @@ function About()
                                     </div>
                                     </li>
 
-                                    <li class="cards_item">
+                                    <li class="cards_item shake">
                                     <div class="card">
                                         <div class="card_image"><img src="https://t4.ftcdn.net/jpg/01/64/89/31/360_F_164893115_DprLVWURglihDpzv4uC6ReaumLyqSH7W.jpg" alt="a Reuben sandwich on wax paper. "></img></div>
                                         <div class="card_content">
@@ -134,7 +135,7 @@ function About()
                                         </div>
                                     </div>
                                     </li>
-                                    <li class="cards_item">
+                                    <li class="cards_item shake">
                                     <div class="card">
                                         <div class="card_image"><img src="https://media.istockphoto.com/id/823857448/vector/black-beautiful-girl-sitting-on-the-floor-and-reading-books-kid-enjoying-reading-colorful.jpg?s=612x612&w=0&k=20&c=CixlHzCANKig_Gzu_sj7txSAu3To9l5ou1s0OdaaKfA=" alt="A side view of a plate of figs and berries. "></img></div>
                                         <div class="card_content">
