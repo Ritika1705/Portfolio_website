@@ -110,7 +110,7 @@ function About()
                             <div class="main">
                                 <ul class="cards">
                                     <li class="cards_item shake">
-                                    <div class="card">
+                                    <div class="hobby card">
                                         <div class="card_image"><img src="https://img.freepik.com/premium-vector/little-girl-wear-beautiful-ballerina-costume-dance_97632-3949.jpg?w=2000" alt="mixed vegetable salad in a mason jar. "></img></div>
                                         <div class="card_content">
                                         <h2 class="card_title">Dance is my oxygen</h2>
@@ -123,7 +123,7 @@ function About()
                                     </li>
 
                                     <li class="cards_item shake">
-                                    <div class="card">
+                                    <div class="hobby card">
                                         <div class="card_image"><img src="https://t4.ftcdn.net/jpg/01/64/89/31/360_F_164893115_DprLVWURglihDpzv4uC6ReaumLyqSH7W.jpg" alt="a Reuben sandwich on wax paper. "></img></div>
                                         <div class="card_content">
                                         <h2 class="card_title">I love to eat</h2>
@@ -136,7 +136,7 @@ function About()
                                     </div>
                                     </li>
                                     <li class="cards_item shake">
-                                    <div class="card">
+                                    <div class="hobby card">
                                         <div class="card_image"><img src="https://media.istockphoto.com/id/823857448/vector/black-beautiful-girl-sitting-on-the-floor-and-reading-books-kid-enjoying-reading-colorful.jpg?s=612x612&w=0&k=20&c=CixlHzCANKig_Gzu_sj7txSAu3To9l5ou1s0OdaaKfA=" alt="A side view of a plate of figs and berries. "></img></div>
                                         <div class="card_content">
                                         

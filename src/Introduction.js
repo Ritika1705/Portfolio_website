@@ -11,13 +11,19 @@ function Introduction() {
 
     if (i < txt.length) {
       var head = document.getElementById("heading").innerHTML += txt.charAt(i);
-      console.log(head.innerText);
       i++;
       setTimeout(typer, speed);
     }
   }
 
-  
+  function myfunc(){
+    console.log("ICon was clicked");
+    const strings = ["Software Development Engineer", "Loves Biryani" , "She is a bit clumsy", "Hardworking yaa..", "Keeps dancing around", "Talks a lot"];
+    let x = Math.floor((Math.random() * strings.length));
+    
+    var a = document.getElementById("description_header");
+    a.innerHTML = strings[x];
+  }
 
   return (
     <>
@@ -33,7 +39,12 @@ function Introduction() {
         <body id="intro_bootstrap">
             <div class="jumbotron">
                     <h1 class="big_font">RITIKA MANDAL</h1>
-                    <h2>Software Development Engineer</h2>
+                    <h2 id = "description_header">Software Engineer</h2>
+                    
+                    <span onClick={myfunc}>
+                        <i class="fa fa-random" aria-hidden="true" style={{'font-size':'40px', color:'white'}}></i>
+                    </span>
+                    
                     <h5>I have a strong interest in coding and with a knack of experimenting with various tech stacks and languages</h5>
                     <a class="a_child resume_icon" href="https://drive.google.com/file/d/1h7q54pdO9M8u2QTSBC2QG90TExGDALDJ/view?usp=share_link" download="ritika_mandal_resume"><i class="fa-solid fa-download fa-bounce" style={{'font-size':'50px', color:'white'}}></i></a>
                     <h4 class="hide">Download resume</h4>
