@@ -33,20 +33,24 @@ function Introduction() {
             <link rel="preconnect" href="https://fonts.googleapis.com"></link>
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
             <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap&effect=fire" rel="stylesheet"></link>
+            <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
+            <link href="https://fonts.googleapis.com/css2?family=Titan+One&display=swap" rel="stylesheet"></link>
             <script src="https://kit.fontawesome.com/fa0e960898.js" crossorigin="anonymous"></script>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         </head>
         <body id="intro_bootstrap">
-            <div class="jumbotron">
+            <div class="jumbotron jumb">
                     <h1 class="big_font">RITIKA MANDAL</h1>
-                    <h2 id = "description_header">Software Engineer</h2>
+                    <h1 id = "description_header">Software Engineer</h1>
                     
-                    <span onClick={myfunc}>
-                        <i class="fa fa-random" aria-hidden="true" style={{'font-size':'40px', color:'white'}}></i>
+                    <span onClick={myfunc} class="description_icon">
+                        <i class="fa fa-random description_icon" aria-hidden="true" style={{'font-size':'40px', color:'white'}}></i>
                     </span>
                     
-                    <h5>I have a strong interest in coding and with a knack of experimenting with various tech stacks and languages</h5>
+                    <h2>I have a strong interest in coding and with a knack of experimenting with various tech stacks and languages
                     <a class="a_child resume_icon" href="https://drive.google.com/file/d/1h7q54pdO9M8u2QTSBC2QG90TExGDALDJ/view?usp=share_link" download="ritika_mandal_resume"><i class="fa-solid fa-download fa-bounce" style={{'font-size':'50px', color:'white'}}></i></a>
+                    </h2>
                     <h4 class="hide">Download resume</h4>
             </div>
             <div class="my_container">

@@ -6,17 +6,32 @@
   padding-bottom: 0%;
 }
 
+#intro_bootstrap .jumb{
+  padding-top: 100px;
+}
+
+#intro_bootstrap #description_header{
+  font-family: 'Titan One', cursive;
+}
+
+#intro_bootstrap .description_icon{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#intro_bootstrap h2{
+  
+}
+
 .navbar{
   background-color: #003366;
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Titan One', cursive;
   font-size: 1.5em;
 }
 
 .navbar-brand{
   margin-left: 10px;
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Titan One', cursive;
   
 }
 
@@ -34,7 +49,7 @@ a:link{
 .big_font{
   font-size: 5em;
   color:#00e6ac;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Titan One', cursive;
 }
 
 .jumbotron{
